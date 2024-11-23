@@ -1,5 +1,7 @@
 ## My personal repository👋
 
+Master's student in Biomedical Engineering with a keen interest in data processing, analysis, and interpretation.
+
 <!--
 **s233243/s233243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
